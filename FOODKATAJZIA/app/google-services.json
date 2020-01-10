@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443809020594",
+    "firebase_url": "https://food-ka-tajzia.firebaseio.com",
+    "project_id": "food-ka-tajzia",
+    "storage_bucket": "food-ka-tajzia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443809020594:android:4800208f0ac6de2607a7ab",
+        "android_client_info": {
+          "package_name": "com.example.foodkatajzia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443809020594-pflmjtb7rv5cssjcgs7e5g7efle425rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodkatajzia",
+            "certificate_hash": "5760c165f4adaf43ed3031f7f77648f86ed3a6ab"
+          }
+        },
+        {
+          "client_id": "443809020594-ip15bcrbn8iqf04lqtdko0tj755norn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDvaObH3SrPty_PPBxRWCOAlVXXzu8s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443809020594-ip15bcrbn8iqf04lqtdko0tj755norn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
