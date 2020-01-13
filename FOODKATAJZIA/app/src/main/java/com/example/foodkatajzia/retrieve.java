@@ -69,6 +69,21 @@ public class retrieve extends AppCompatActivity {
                 startActivity(intent);
 
 
+
+            }
+
+
+
+
+
+        });
+
+        Button butt =findViewById(R.id.button);
+        butt.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v){
+                Intent intent = new Intent(retrieve.this, MapsActivity.class);
+                startActivity(intent);
+
             }
 
 
